@@ -1,12 +1,4 @@
 ### Hi there 👋
 
-我是福州大学计算机学院的本科生！
-
-很高兴你能来到我的github主页
-
-目前还是代码菜鸡，会C，C++
-
-正在学习java和python....
-
-希望自己可以一直进步！
+A graduate student from the School of Computer Science at the University of Leeds.
 
